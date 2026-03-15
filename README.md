@@ -12,7 +12,7 @@ The project focuses on **clean embedded UI design using the U8g2 graphics librar
 Watch the demonstration on YouTube:
 
 🔗 **YouTube Video:**
-`Link`
+`https://youtube.com/shorts/FpDvwvW7zQY?feature=share`
 
 ---
 
