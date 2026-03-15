@@ -114,7 +114,7 @@ The **U8g2 library** is used for rendering the UI, fonts, and waveform animation
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/retro-player.git
+git clone https://github.com/AbhirupRudra/Retro-Player
 ```
 
 2. Open the project in **Arduino IDE**
